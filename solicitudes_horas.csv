@@ -1,0 +1,3 @@
+id,usuario_id,usuario_nombre,fecha,label_fecha,horas,estado,supervisor
+REC001,1966007288,MM,2026-07-04,Sábado 04/07,4,Aprobada,Aprobado
+REC002,1966007288,MM,2026-07-03,Viernes 03/07,4,Rechazada,Rechazado

@@ -1,0 +1,3 @@
+id,usuario_id,usuario_nombre,fecha,tipo,direccion,timestamp
+TRP001,1966007288,MM,2026-06-25,Solicitar movilidad,Mendoza 2192 Sur,2026-06-25T18:36:22Z
+TRP002,1966007288,MM,2026-06-25,Movilidad propia,N/A,2026-06-25T19:13:22Z
